@@ -1,0 +1,12 @@
+@mixin margin-top($top) {
+          margin-top: $top;
+}
+@mixin margin-left($left) {
+          margin-left: $left;
+}
+@mixin margin-right($right) {
+          margin-right: $right;
+}
+@mixin margin-bottom($bottom) {
+          margin-bottom: $bottom;
+}

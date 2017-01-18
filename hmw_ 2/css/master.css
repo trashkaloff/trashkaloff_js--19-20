@@ -1,0 +1,22 @@
+*{margin: 0; padding: 0;}
+/**************************/
+body{
+  background: #dfd;
+  font-family: cursive;
+}
+header{
+  margin: 0 auto;
+  margin-top: 5vw;
+  border: 1px  solid red;
+  width: 54vw;
+    height: 24vw;
+    background: #e0e0e0;
+    border-radius: 5px;
+}
+p{
+  font-size: 84px;
+  padding-top: 4vw;
+  color: #248cec;
+  text-shadow: 4px 4px 8px rgba(150, 150, 150, 1);
+  text-align: center;
+}

@@ -1,0 +1,31 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "First Project",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github/stanlaktionov.git"
+  },
+  "keywords": [
+    "project1",
+    "Goit"
+  ],
+  "author": "Laktionov",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/github/stanlaktionov/issues"
+  },
+  "homepage": "https://github.com/github/stanlaktionov#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.2",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
